@@ -26,3 +26,4 @@ let y2 = 0
 let m = (y2 - y1)/(x2 - x1);
 
 console.log("The slope of the line from point A(-4,5) to point B(6,0) is: " + m);
+//oju9h7gtytrf5rd5rc
